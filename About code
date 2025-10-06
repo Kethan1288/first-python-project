@@ -1,0 +1,23 @@
+# Road Cross
+
+A simple Python game where a turtle tries to cross the road while avoiding moving cars.
+
+## Features
+- Move the turtle across the road
+- Avoid hitting the cars
+- Simple and fun gameplay
+
+## How to Play
+1. Run the game using Python:
+```bash
+python road_cross.py
+
+2.Use the keyboard to move the turtle across the road
+
+3.Try not to get hit by the cars!
+
+What I Enjoyed
+I really enjoyed making the cars move and figuring out how the turtle could cross safely.
+
+Author
+Made by Kethan ✌️
